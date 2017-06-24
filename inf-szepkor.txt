@@ -1,0 +1,43 @@
+====== Informatika szépkorúaknak ======
+
+  -  csoport: kezdőszint
+  -  csoport: közepszint
+  -  csoport: haladószint
+
+{{:inf-szepkor:a_szamitogep-kezeles_alapjai.pdf|A számítógép-kezelés alapjai}} \\
+{{:inf-szepkor:ms_office_2000.pdf|MS Office 2000}}\\
+{{:inf-szepkor:szoevegszerkesztes_alapjai.pdf|Szövegszerkesztés alapjai}}\\
+{{:inf-szepkor:internet_mint_informacioforras.pdf|Internet mint információforrás}}\\
+{{:inf-szepkor:szamitastechnikai_ismeretek.docx|Számítástechnikai ismeretek}}\\
+{{:inf-szepkor:tanitando_modulok.docx|Tanítandó modulok}}\\
+{{:inf-szepkor:szamitogepes_alapismeretek_1.pptx| Számítógépes alapismeretek 1 (prezentáció)}}\\ \\
+  - A számítógépes alapismeretek\\
+    - [[inf-szepkor:szamitogep-kikapcsolasa|A számítógép leállítása (Windows 10)]]\\
+    - [[inf-szepkor:mappa-letrehozasa|Új mappa létrehozása]]\\
+    - [[inf-szepkor:szovegdok-letrehozasa|Új szöveges dokumentum létrehozása]]\\
+    - [[inf-szepkor:wordpad|WordPad - a beépített szövegszerkesztő]]\\
+    - [[inf-szepkor:tomorites|Tömörítés]]\\
+    - [[inf-szepkor:virusirtas|Vírusirtás]]\\
+  - Online alapismeretek\\
+    - [[inf-szepkor:bongeszo|Böngésző indítása]]\\ 
+    - [[inf-szepkor:levelezes|A levelezés elindítása]]\\ 
+    - [[inf-szepkor:levelezesbe-belepes|Belépés a levelezésbe]]\\
+    - [[inf-szepkor:levelezes-googlefiok|Google-fiók létrehozása]]\\
+    - [[inf-szepkor:facebook-oldal|Facebook fiók létrehozása vagy bejelentkezés a Facebook-ba]]\\
+    - [[inf-szepkor:google-kereses|Kép keresése a Google keresővel az Interneten]]\\
+    - [[inf-szepkor:level-kuldes|Levél (e-mail) küldése]]\\
+  - A szövegszerkesztés alapjai\\
+    - [[inf-szepkor:szov-indit|A szövegszerkesztő indítása]]\\
+    - [[inf-szepkor:szov-ment|A szövegszerkesztő dokumentumának mentése]]\\
+    - [[inf-szepkor:szov-kar-form|Karakterformázás]]\\
+    - [[inf-szepkor:szov-kar-form-fel|Karakterformázási feladat]]\\
+    - [[inf-szepkor:szov-bek-form|Bekezdésformázás]]\\
+    - [[inf-szepkor:szov-bek-form-vonalzo-behuz|Bekezdések. A vonalzó és a behúzások. Sorköz. Térköz]]\\
+    - [[inf-szepkor:beszur-tabl|Táblázat beszúrása]]\\
+    - [[inf-szepkor:beszur-clipart|ClipArt beszúrása]]\\
+    - [[inf-szepkor:beszur-szimbolum|Szimbólum beszúrása]]\\
+    - [[inf-szepkor:beszur-elofej|Élőfej beszúrása]]\\
+    - [[inf-szepkor:beszur-elolab|Élőláb beszúrása]]\\
+    - [[inf-szepkor:beszur-oldalszam|Oldalszám beszúrása]]\\
+    
+
